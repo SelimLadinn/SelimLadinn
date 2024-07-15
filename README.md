@@ -1,4 +1,4 @@
-<a href="https://resimlink.com/s-b2XYaHd1WP" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/s-b2XYaHd1WP.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+[![image](https://r.resimlink.com/s-b2XYaHd1WP.png)](https://resimlink.com/s-b2XYaHd1WP)
 <h1 align="center">Hi 👋, I'm Selim Ladin</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
