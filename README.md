@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Selim Ladin</h1>
 <h3 align="center">Selim Ladin 17 years old 📍 Istanbul, Turkey</h3>
 
-- ✉️ selimladinofficial@gmail.com
+Hello, I'm Selim Ladin. I live in Istanbul and I'm 17 years old. I'm interested in social media management and I'm working on developing my skills in this area. I'm also diving into the world 
+of programming; particularly, I'm focusing on learning Java, C#, CSS, and HTML. I'm currently learning English and due to my passion for technology, I'm constantly exploring new things. In 
+the future, I aim to build a career in these fields.
+
+Gmail: ✉️ selimladinofficial@gmail.com
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
