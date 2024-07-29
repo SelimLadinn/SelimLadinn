@@ -7,6 +7,7 @@ of programming; particularly, I'm focusing on learning Java, C#, CSS, and HTML. 
 the future, I aim to build a career in these fields.
 
 Gmail: ✉️ selimladinofficial@gmail.com
+Site: 🌐 selimladin.com.tr (OFF)
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
