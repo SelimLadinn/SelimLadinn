@@ -1,4 +1,4 @@
-[![image](https://r.resimlink.com/s-b2XYaHd1WP.png)](https://resimlink.com/s-b2XYaHd1WP)
+[![image]([https://r.resimlink.com/s-b2XYaHd1WP.png](https://ibb.co/1GYpB8S))]([https://resimlink.com/s-b2XYaHd1WP](https://ibb.co/1GYpB8S))
 <h1 align="center">Hi 👋, I'm Selim Ladin</h1>
 <h3 align="center">Selim Ladin 17 years old 📍 Istanbul, Turkey</h3>
 
@@ -8,7 +8,7 @@ the future, I aim to build a career in these fields.
 
 Gmail: ✉️ selimladinofficial@gmail.com
 
-Site: 🌐 selimladin.com.tr (OFF)
+Site: 🌐 selimladin.com.tr
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
