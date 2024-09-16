@@ -1,4 +1,4 @@
-[![image]([https://resimlink.com/r6YvbD79ZLn8))]([https://resimlink.com/r6YvbD79ZLn8]))
+[![image]([https://resimlink.com/r6YvbD79ZLn8))](https://resimlink.com/r6YvbD79ZLn8)
 <h1 align="center">Hi 👋, I'm Selim Ladin</h1>
 <h3 align="center">Selim Ladin 17 years old 📍 Istanbul, Turkey</h3>
 
