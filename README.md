@@ -1,4 +1,4 @@
-[![image](https://r.resimlink.com/r6YvbD79ZLn8.png)](https://resimlink.com/r6YvbD79ZLn8)
+[![image](https://r.resimlink.com/pKxoYaCJkn8.png)](https://resimlink.com/pKxoYaCJkn8)
 <h1 align="center">Hi 👋, I'm Selim Keçeci</h1>
 <h3 align="center">17 years old 📍 Istanbul, Turkey</h3>
 
