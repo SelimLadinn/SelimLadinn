@@ -6,9 +6,9 @@ Hello, I'm Selim Keçeci. I live in Istanbul and I'm 17 years old. I'm intereste
 of programming; particularly, I'm focusing on learning Java, C#, CSS, and HTML. I'm currently learning English and due to my passion for technology, I'm constantly exploring new things. In 
 the future, I aim to build a career in these fields.
 
-Gmail: ✉️ selimkeçeci520@gmail.com
+Gmail: ✉️ selimkececi520@gmail.com
 
-Site: 🌐 selimkeçeci.com.tr
+Site: 🌐 selimkececi.com.tr
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
